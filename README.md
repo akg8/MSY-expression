@@ -22,4 +22,15 @@ Then, to make sure the notebook files can find the downloaded data, set the `DAT
     
     ##### ~~~ EDIT HERE ~~~ #######################################################
     
-Now, run the individual Jupyter notebook files.
+Now, run the individual Jupyter notebook files. The approximate order for running these notebooks is given below, however, all but sexbias_analyses.ipynb can be run independently of the others.
+
+1. mappability_analyses.ipynb
+2. MSY_overview_analyses.ipynb
+3. simulation_analyses.ipynb
+4. yxratio_analyses.ipynb
+5. coexpression_analyses.ipynb
+6. diffexp_analyses.ipynb
+7. eif1a_analyses.ipynb
+8. sexbias_analyses.ipynb
+9. massspec_analyses.ipynb
+
