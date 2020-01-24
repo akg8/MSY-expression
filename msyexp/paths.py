@@ -1,11 +1,21 @@
 """ paths to input files """
 import os
 
-# directory containing all input files for modules and notebooks
-DATADIR = '/Users/agodfrey/Dropbox (MIT)/lab/writing/ylandscape/zenodo'
+##### ~~~ EDIT HERE ~~~ #######################################################
 
-# directory where files output by notebooks will be written
-NBOUTDIR = '/Users/agodfrey/Dropbox (MIT)/lab/writing/ylandscape/notebook_out'
+# local directory containing all input files downloaded from Zenodo
+# (https://doi.org/10.5281/zenodo.3627110)
+DATADIR =    # your path here
+
+# local directory where you would like all output files to be written;
+# each notebook's files will be saved within a notebook-specific subdirectory
+NBOUTDIR =   # your path here
+
+##### ~~~ EDIT HERE ~~~ #######################################################
+
+
+##### ~~~ DO NOT CHANGE BELOW THIS POINT ~~~ ##################################
+
 if not os.path.exists(NBOUTDIR):
 	os.mkdir(NBOUTDIR)
 
