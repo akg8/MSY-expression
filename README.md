@@ -13,7 +13,7 @@ To make sure the notebook files can find the downloaded data, edit the `DATADIR`
     ##### ~~~ EDIT HERE ~~~ #######################################################
     
     # local directory containing all input files downloaded from Zenodo
-    # (https://doi.org/10.5281/zenodo.3627110)
+    # (https://doi.org/10.5281/zenodo.3627233)
     DATADIR = '/Users/janedoe/msy_input_files'
     
     # local directory where you would like all output files to be written;

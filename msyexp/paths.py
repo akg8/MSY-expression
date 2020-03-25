@@ -4,7 +4,7 @@ import os
 ##### ~~~ EDIT HERE ~~~ #######################################################
 
 # local directory containing all input files downloaded from Zenodo
-# (https://doi.org/10.5281/zenodo.3627110)
+# (https://doi.org/10.5281/zenodo.3627233)
 DATADIR =    # your path here
 
 # local directory where you would like all output files to be written;
