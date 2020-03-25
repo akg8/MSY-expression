@@ -31,6 +31,7 @@ Now, run the individual Jupyter notebook files. The approximate order for runnin
 5. coexpression_analyses.ipynb
 6. diffexp_analyses.ipynb
 7. eif1a_analyses.ipynb
-8. sexbias_analyses.ipynb
-9. massspec_analyses.ipynb
+8. eif1a_HPA_replication_analyses.ipynb
+9. sexbias_analyses.ipynb
+10. massspec_analyses.ipynb
 
